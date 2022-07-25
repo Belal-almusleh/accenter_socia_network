@@ -1,0 +1,35 @@
+Social Buzz objectives:
+
+-move on IPO with smooth steps ( my prediction for this objectiveis : the comapny are trying to grow faster, increase incomes and profits, and grow their sociaty and users)
+- Hiring experinced people (my predection for this objective is : The company is planning to expand itself and expand her market, so it has to manage all the avaliable resources from time, money, workers and so on, this will be avaliable be looking for the patterns in the historical data) 
+- Cooperate with a professional company that exctract information from the avaialble bigdata that Social Buzz has.)
+
+
+
+expected Goals with accunture:
+
+- audit the huge amount of data 
+- Prepare smooth plan to transfer to IOP
+- An analysis of their content categories that highlights the top 5 categories with the 
+largest aggregate popularity 
+
+Summary of busniess problems:
+1) Grow up community platform 
+2)Mange Resources 
+3)Enter stocks market 
+4)Hiring experienced
+5)Mange data flow, database, amd big data
+6)Increase the profits of the company 
+
+ Accenture will deliver to the client:
+
+-  smooth plan for IPO
+-  smooth manegement to data system
+- Increase Number of markets and users
+
+
+-As an analyst I need to analyze and have insight on :
+
+- profits
+- community growing numbers and dates
+- looking on cost, budget, revenue and so on.
